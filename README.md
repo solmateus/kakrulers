@@ -5,9 +5,9 @@ Options to highlight current line, current row, or the row of max characters per
 
 ### Commands:
 - `rulers` -> Toggle the highlighting of all of the rulers on and off.
-- `ruler_line` -> Toggle the highlighting of the current line.
-- `ruler_column` ->  Toggle the highlighting of the current column.
-- `ruler_wrapcolumn` -> Toggle the highlighting of the wrap column. 
+- `rulers_line` -> Toggle the highlighting of the current line.
+- `rulers_column` ->  Toggle the highlighting of the current column.
+- `rulers_wrapcolumn` -> Toggle the highlighting of the wrap column. 
 
 Special thanks for @insipx.
 
