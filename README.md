@@ -1,11 +1,15 @@
-# Kak Crosshairs
+# Kak Rulers
 
 
-Highlight Current Line/Column in Kakoune
+Options to highlight current line, current row, or the row of max characters per line before wrapping. A fork of @insipx's kak-crosshairs.
 
-### Commands added by this plugin:
-- `crosshairs` - Toggle the highlighting of the current line and column
-- `cursorline` - Toggle the highlighting of only the current line
-- `cursorcolumn` - Toggle the highlighting of only the current column
+### Commands:
+- `rulers` -> Toggle the highlighting of all of the rulers on and off.
+- `ruler_line` -> Toggle the highlighting of the current line.
+- `ruler_column` ->  Toggle the highlighting of the current column.
+- `ruler_wrapcolumn` -> Toggle the highlighting of the wrap column. 
 
-Thank You to @alexherbo2 for creating the column highlighter
+Special thanks for @insipx.
+
+Sol, d:^).
+
