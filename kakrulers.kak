@@ -1,6 +1,3 @@
-# declare-option str rulers_bg "rgb:45475a"
-# declare-option str rulers_fg "rgb:45475a"
-
 set-face global rulers_line default,rgb:2a2b3c
 set-face global rulers_column default,rgb:2a2b3c
 set-face global rulers_wrapcolumn default,rgb:2a2b3c
